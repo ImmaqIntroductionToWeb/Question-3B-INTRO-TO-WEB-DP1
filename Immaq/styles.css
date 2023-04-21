@@ -1,0 +1,55 @@
+body {
+ margin:0;
+}
+
+p {
+ margin:0;
+}
+
+heading {
+ margin:0;
+}
+
+li {
+ margin:0;
+}
+
+.header {
+ background-color:#1a1a1a;
+ color:#ff6a6a;
+ heright:20vh;
+}
+
+nav {
+ background-color:#666666;
+ height:10vh;
+}
+
+nav li {
+ gap:16px;
+}
+
+nav a {
+ color:#20b2aa;
+}
+
+.main {
+ background-color:#e6e6fa;
+ width:80%;
+ height:60vh;
+}
+
+.aside {
+ background-color:#a7e6fb;
+ widthe:20%;
+ height:60vh;
+}
+
+.footer {
+ background-color:#2e2e2e;
+ color:#f08080;
+ height:10vh;
+}
+
+
+ 
